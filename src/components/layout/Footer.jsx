@@ -5,7 +5,7 @@ function Footer() {
  
   return (
     <footer className="footer p-10 bg-[#1e90ff] text-primary-content footer-center font-bold">
-        <p>Copyright &copy; {footerYear} Adejimi Oluwaseyi Levi</p>
+        <p>Copyright &copy; {footerYear} Yusuf Oluwaseyi</p>
     </footer>
   )
 }
